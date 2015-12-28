@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pixmaps">
+    <file>Famicom-Console-Set-scaled.JPG</file>
+  </qresource>
+</RCC>
